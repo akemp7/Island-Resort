@@ -19,7 +19,7 @@ _None_
 
 ## Support and contact details
 
-_Let us know if you have any questions! Anita: anita.k.kemp@gmail.com  Jennifer: jennifer.batara.dev@gmail.com_
+_Let us know if you have any questions! Please leave a comment on this repository.
 
 ## Technologies Used
 
